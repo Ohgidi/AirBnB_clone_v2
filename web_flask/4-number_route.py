@@ -1,4 +1,7 @@
-reated on Tue Sep  1 14:42:23 2020
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep  1 14:42:23 2020
 @author: Robinson Montes
 """
 from flask import Flask
